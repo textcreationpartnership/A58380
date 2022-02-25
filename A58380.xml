@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflections upon the conduct of the King of Great Britain in the late wars Contained in a letter from a subject of one of the confederated princes, to a friend in Holland. Done into English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58380</idno>
+            <idno type="STC">Wing R727</idno>
+            <idno type="STC">ESTC R222084</idno>
+            <idno type="EEBO-CITATION">99833314</idno>
+            <idno type="PROQUEST">99833314</idno>
+            <idno type="VID">37790</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58380)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37790)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2196:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflections upon the conduct of the King of Great Britain in the late wars Contained in a letter from a subject of one of the confederated princes, to a friend in Holland. Done into English.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for H.R.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682.]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Author and translator not found.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:37790:1"/>
+            <head>REFLECTIONS UPON THE CONDUCT OF THE King of Great Britain In the late WARS. Contained in a LETTER from a Subject of One of the Confederated Princes, to a Friend in <hi>HOLLAND.</hi>
+            </head>
+            <head type="sub">Done into <hi>Engliſh.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce in renewing the Correſpondence between us, which has ſo long a time been interrupted you are fall'n upon the ſubject of the Affairs of <hi>Europe,</hi> and particular<g ref="char:EOLhyphen"/>ly touching the ſhare that the King of <hi>Great Britain</hi> has had therein for ſome late years, which has given you occaſion to take ſome freedom in making reflections up<g ref="char:EOLhyphen"/>on the Conduct of that Prince; I do not doubt but you now reciprocally expect my Sentiments upon this Matter, which by conſequence I will give you, with the ſame liberty, but alſo with all the impartiality, that an honeſt Man can have in judging of the actions of others, and much more of thoſe of Great Princes. You may eaſily imagine, I know nothing of the Articles of that Treaty of Alliance you ſpeak of, between the ſaid King and <hi>Spain,</hi> and I muſt confeſs to you, that the Author of the Reflections upon that Treaty, ſeems to have found a fine matter for the exerciſing of his Pen. But as amongſt all the ſportings of his Wit, the ſevereſt Re<g ref="char:EOLhyphen"/>mark he makes, ſeems to me to be in the Paragraph where he blames that King for not having endeavoured to put a ſtop to the courſe of the Victories of <hi>France</hi> when it lay in his Power; and for having contributed more than any Other to the Greatneſs of <hi>France:</hi> it does like<g ref="char:EOLhyphen"/>wiſe concern us Allies, for the meaſures we are to take, to judge ſoberly. If this imputation can be juſtly charged upon that Prince, it is then very true, that to take the thing in general, 'tis difficult not to lay the blame at His Door, for not having taken the part of the Allies be<g ref="char:EOLhyphen"/>fore the Peace, and that this ſeems to juſtifie Our Reſentments againſt Him. However, to give them ſo much the more ground, if they are juſt, let us conſider what time in the courſe of Affairs could be aſſigned to Him for the entring into War; and to decide that queſtion in general, it ſeems it ought to have been either when the Intereſt of His Nation, or His own Honour, or the Neceſſity of the Allies began to exact it. Now as for the Intereſt of His Na<g ref="char:EOLhyphen"/>tion, and principally of His Great City of <hi>London,</hi> methinks that King could not have choſen a better Policy, than after being got out of the War, wherein He had left His Neighbours engaged, to keep His People as long as He could in Peace, and in a ſtate of enjoying alone the Commerce of <hi>Europe,</hi> and advantage which We know was envied them with an<g ref="char:EOLhyphen"/>guiſh by you <hi>Hollanders,</hi> and which made you ſo impatient to engage <hi>England</hi> in a War as
+<pb n="2" facs="tcp:37790:2"/>well as your ſelves, even before the Honour of that King obliged Him to it, or He was preſſed to it by the Neceſſity of the Allies. As for the Honour of His Majeſty, what could He deſire more glorious, than to ſee Himſelf the Sole Mediatour, and when He pleas'd, the Ar<g ref="char:EOLhyphen"/>bitrator of the Affairs of <hi>Europe,</hi> to receive the Differences and Addreſſes of all other Pinces, and in ſhort, to have it in His Power to re-eſtabliſh a ſure and Honourable Peace, when He thought convenient, either by His own ſole Authority; or by joining His own Forces to it, when it ſhould be neceſſary to employ them for that purpoſe: this Caſe of Neceſſity being the ſole one, which could change the Conſiderations of the Honour of His Majeſty, and the Intereſt of His Nation. We've now to examine at what time it began, when it was preſſing, and how far we may impute to the Prince we ſpeak of, the having failed in what all theſe Conſiderations together Counſelled Him to do. We ſhall eaſily agree, that while Our Forces were ſufficient, not only to defend us, but even to attempt upon <hi>France,</hi> it would not have been handſome for us to have propos'd to that King to have engaged Himſelf contrary to the Intereſt of His Nation. Now it is manifeſt that during the three firſt Campaigns, at leaſt af<g ref="char:EOLhyphen"/>ter the Peace between His Majeſty and <hi>Holland,</hi> We were in that poſture, which may be ea<g ref="char:EOLhyphen"/>ſily made appear by looking back upon the events of thoſe <hi>Campaigns.</hi> Certain it is that at and after the Battel of <hi>Seneffe,</hi> in the Year 1674: the Forces of <hi>France</hi> were worſted and continued in the weakeſt condition, the Prince of <hi>Conde</hi> was obliged to retire beyond the <hi>Sambre;</hi> and the Army of the Confederates was then in a poſture of laying Siege to <hi>Oudenarde;</hi> and though the Prince of <hi>Conde</hi> made an effort to come ſuddenly to its relief, he would in all probability have been repulſed, if the Count <hi>de Souches,</hi> General of the Imperial Army, would have come up in time according to the Advice of the Prince of <hi>Orange,</hi> of which His Highneſs made great Complaints to the Emperour, and ſeveral of the Principal Officers of the Army refuſed to ſerve any longer under this Count, which obliged the Emperor to to take away his Com<g ref="char:EOLhyphen"/>miſſion. The Armies of the Allies were likewiſe much the ſtronger upon the <hi>Rhine</hi> that ſame <hi>Campagne;</hi> the Elector of <hi>Brandenbourg</hi> took his Winter Quarters in <hi>Alſatia,</hi> from whence <hi>Monſieur de Turenne</hi> was obliged to retire and go to <hi>Paris;</hi> and though by an admirable Diligence and Conduct, he returned the ſame Winter, and conſtrained the Forces of the Elector to repaſs the <hi>Rhine,</hi> which he likewiſe paſſed himſelf in order to the <hi>Campagne</hi> of 1675. This however having been his laſt and fatal Year, General <hi>Montecuculi</hi> repulſed and purſu<g ref="char:EOLhyphen"/>ſed his Army, diminiſhed by above half, to the other ſide of the ſaid River, and laid Siege to <hi>Saverne:</hi> and though when the Prince of <hi>Conde</hi> (who was ſent to ſave the Ru<g ref="char:EOLhyphen"/>ines of that Army, and give reparation to the Affairs of <hi>France</hi>) approached him, he raiſed the Siege, yet indeed it was only to triumph over that Prince, and to drive him before him as far as he pleaſed, after which when it ſeemed he might have made ſome good uſe of his advantage, he attempted nothing farther before their going into Winter-Quarters. On the other ſide the total rout of the <hi>Marſhal de Crequi</hi> by the Forces of the Dukes of <hi>Lunenburg,</hi> and the recovery thereupon of the City of <hi>Treves</hi> out of the hands of the <hi>French,</hi> had redu<g ref="char:EOLhyphen"/>ced their Affairs into that condition, that His Moſt Chriſtian Majeſty found not a more pre<g ref="char:EOLhyphen"/>ſent remedy, than to have recourſe to His Arricreban, which was likewiſe beaten by the Duke of <hi>Lorrain,</hi> the Elector of <hi>Brandenbourg</hi> having beſides ſo gloriouſly freed his Country from the <hi>Swedes</hi> and the Duke of <hi>Lunenburg</hi> and Biſhop of <hi>Munſter</hi> having ſtript them of all they poſſeſſed in the Dutchy of <hi>Bremen,</hi> except the City of <hi>Staden; Denmark</hi> having likewiſe taken part in the War, whereby the <hi>Sweeds</hi> remained altogether unable to defend themſelves, and much leſs to aſſiſt <hi>France,</hi> the Forces of the Allies began to be formidable to it, and found themſelves capable in the Campaign of 1676, to attempt at the ſame time the two Sieges of <hi>Maeſtricht</hi> and <hi>Philipsbourg.</hi> But as the moſt of 'em ſaw themſelves in a fair way of mak<g ref="char:EOLhyphen"/>ing Conqueſts, Jealouſie began to riſe up among them, each Party fearing that his Neighbour would have too good a ſhare therein, the Diſputes for the Dividend having delayed the tak<g ref="char:EOLhyphen"/>ing of <hi>Staden,</hi> and the ſuccours which were to have come to the Prince of <hi>Orange,</hi> of the Troops which blocked up that Place, were the cauſes that this Prince was obliged to raiſe the Siege of <hi>Maeſtricht,</hi> during which the <hi>French</hi> had time to take <hi>Aire</hi> from the <hi>Spaniards.</hi> Hi<g ref="char:EOLhyphen"/>therto we all thought our ſelves uppermoſt in our Affairs, which I might eaſily demonſtrate by things that paſs'd openly in the Congreſs of <hi>Nimeguen,</hi> which it was clearly to be ſeen by all the World, that the Moſt Chriſtian King aimed at nothing but ſecuring His Honour by a Peace that might have given us ſatisfaction. But after the misfortune of <hi>Maeſtricht,</hi> the <hi>Hollanders</hi> began to fear with more apprehenſion what afterwards happened, namely, That the remiſsneſs and different intereſts of the <hi>German</hi> Princes, the weakneſs of <hi>Spain,</hi> and the diligence of the <hi>French,</hi> the <hi>Spaniſh Low Countries</hi> would be ſwallowed up in ſpight of all the Forces of the Confederates. Yet as by the taking of <hi>Philipsbourg</hi> the Power of the
+<pb n="3" facs="tcp:37790:2"/>Emperour was augmented, by that of <hi>Staden</hi> the Princes of <hi>Lunenburg</hi> and of <hi>Munſter</hi> had their Hands free, that they promiſed a good and ſincere Correſpondence; and as there were great hopes conceived from the Zeal and good Conduct of the Duke of <hi>Lorrain,</hi> who com<g ref="char:EOLhyphen"/>manded the Imperial Army, the Power of the Allies ſeemed ſtill vigorous and formidable. But as the Moſt Chriſtian King, by his uſual diligence, began the Campaign of 1677. with the Sieges of St. <hi>Omer</hi> and of <hi>Cambray</hi> at the ſame time, before any Army of the Allies could or would appear, except that of the <hi>States,</hi> and the Prince of <hi>Orange</hi> being netled with the reproaches of the <hi>Spaniards,</hi> that he did but eat up their good Land of <hi>Waes,</hi> while he ſaw two of their Towns beſieged, out of a generoſity which filled them with admiration, hazarded both his Army and Perſon for the relief of St. <hi>Omers,</hi> but without any other ſucceſs than what might be expected from an Army inferiour in Forces to that it attacked, which was likewiſe powerfully ſuccoured by that of the Kings inſomuch as the above mentioned Places and the Town of <hi>Valenciennes</hi> were thereupon taken by the <hi>French,</hi> and afterwards the Prince of <hi>Orange</hi> was obliged to quit the Enterpriſe of <hi>Charleroy,</hi> by a laudable and ne<g ref="char:EOLhyphen"/>ceſſary prudence not to hazard once again all the Forces the <hi>States</hi> had left for their defence. On the other ſide it was evident that it was impoſſible for the Duke of <hi>Lorrain,</hi> and would be always ſo for the <hi>Imperialiſts</hi> to make any great Invaſion into <hi>France,</hi> or to exe<g ref="char:EOLhyphen"/>cute any conſiderable Enterpriſe elſewhere, while the <hi>French</hi> ſhould content themſelves with acting upon the defenſive with a ſufficient Army. I muſt confeſs it was in that jun<g ref="char:EOLhyphen"/>cture our Affairs began to ſtand in need of ſome powerful interceſſion of the Prince whoſe Conduct we are conſidering, and it is from what paſſed ſince in <hi>England,</hi> that we are prin<g ref="char:EOLhyphen"/>cipally to judge of his intentions.</p>
+            <p>The Parliament had been a long time making him Addreſſes to recal his Troops out of the ſervice of <hi>France;</hi> and though His Majeſty ſuffering at the ſame time Six Regiments of His Subjects in <hi>Holland,</hi> and being to keep his Neutrality as Mediatour, did at firſt only for<g ref="char:EOLhyphen"/>bid by His Proclamations any new Troops from paſſing into <hi>France,</hi> He recalled them at length, and they returned very much diminiſhed in number, and miſuſed as is well known. But as this was but the leaſt remedy to our evils, and the Parliament had more warm<g ref="char:EOLhyphen"/>ly taken the Alarum, in the beginning of the <hi>Campaign</hi> 1677, Thoſe Gentlemen were of Opinion that it was time to make ſome Paces towards a War, and prayed the King in their Addreſſes to fortifie himſelf with Alliances againſt <hi>France.</hi> Hereupon to our misfortune, which will be found theirs likewiſe at the end of the account, Jealouſies began to break out between the King and His Parliament. His Majeſty demanded of them a Sum of 600000 <abbr>
+                  <hi>l.</hi>
+               </abbr> Sterling, as neceſſary for the putting him in a poſture of ſpeaking and acting as became him. Thoſe Gentlemen gave him only credit for 200000 Pounds with general promiſes of aſſi<g ref="char:EOLhyphen"/>ſting him after he had made His Alliances. His Majeſty imagined that the courſe they took was an encroachment upon his Prerogatives, and upon that Prorogued from time to time their Aſſembly, until the beginning of the Year 1678. In the mean while, after the end of the aforementioned <hi>Campaign</hi> of 1677, He called his Nephew the Prince of <hi>Orange</hi> into <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> for the Perſonally concerting Affairs with him, and gave him in Marriage the Lady <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> againſt the will, as was believed, of the Duke of <hi>York,</hi> that Princeſſes Father, which me<g ref="char:EOLhyphen"/>thinks is a ſufficient teſtimony that this King withdrew himſelf entirely from <hi>France,</hi> and it has not been doubted but that the <hi>French</hi> ſo underſtood it. His Majeſty made likewiſe there<g ref="char:EOLhyphen"/>upon an Alliance with your Republick, and at the aſſembling of the Parliament, communi<g ref="char:EOLhyphen"/>cated to them theſe things, with promiſes if they would arm him ſufficiently to enter into a War, he would never be at reſt until he had re-eſtabliſhed a Peace in <hi>Chriſtendom,</hi> which any one Prince ſhould not be capable of diſturbing. Thoſe Gentlemen thereupon preſented him an Addreſs, wherein giving him ſtill only general promiſes of aſſiſtance, they deſired him to make new Alliances, engage all his Allies not to make any Peace, but upon the foot of the Treaty of the <hi>Pyrenees,</hi> nor to have any Commerce with <hi>France,</hi> nor to ſuffer the Ships of any Nation to enter or go out of the Ports of that Kingdom. This Propoſition which was very remarkable gave different motions to thoſe it concerned. Moſt of the Allies took Cou<g ref="char:EOLhyphen"/>rage ſeeing the aſſurance and reſolution with which thoſe Gentlemen ſpoke. It gave aſto<g ref="char:EOLhyphen"/>niſhment to you in <hi>Holland,</hi> where you were not deſirous to embark in a long War, and were content with a Peace of leſs ſafety, and your profound Dreamers in Policy did already ima<g ref="char:EOLhyphen"/>gine that the <hi>Engliſh</hi> might carry their Arms as far as formerly into <hi>France.</hi> But it was very diſpleaſing to the King as may be ſeen by the anſwer he made thereto, which was found very rational, and wherein after his Arguments, he preſſes them again to haſten their aſſiſtance of Money as the time required. But there ſtill paſſed a Month or more before
+<pb n="4" facs="tcp:37790:3"/>they compleated the Reſolution for Money to raiſe Forces. By that time the <hi>French</hi> had made themſelves Maſters of <hi>Ghent,</hi> and were in a condition of proceeding much further, be<g ref="char:EOLhyphen"/>fore the Succours that were preparing in <hi>England</hi> could hinder them. The <hi>Holl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nders</hi> ſeeing none of their Allies ready, ſome refuſing to March, their own Forces being for the greateſt part in the <hi>Spaniſh</hi> Towns, from whence they could not withdraw them, the reſt being uncapable to defend them, were in a great conſternation. The Moſt Chriſtian King did not fail to take advantage of this juncture, and having made them Propoſitions of a Ge<g ref="char:EOLhyphen"/>neral Peace, which he caus'd to be Printed, they eaſily diſpoſed themſelves to accept them, and to perſwade their Allies to do the like. They ſent for that purpoſe to the Duke of <hi>Villa Her<g ref="char:EOLhyphen"/>moſa</hi> who oppoſed it a long time, but the Parliament in <hi>England</hi> ſeeing by the diſpoſition of the <hi>Hollanders,</hi> that it would be almoſt impoſſible to prevent the Peace, and not being willing to leave the King armed, turned all their thoughts from War, and took the reſolu<g ref="char:EOLhyphen"/>tion to ſpeak no more of Money, until they had obtained their demands in affairs of Religion, that Duke did likewiſe then accept of the Peace, ſeeing there was no timely ſuccour to be expected from <hi>England.</hi>
+            </p>
+            <p>This, Sir, I take to be the true Draught of things, from whence we are to judge if the King of <hi>England</hi> is the only cauſe of the Greatneſs of <hi>France.</hi> We may certainly ſay, the Jealouſies that aroſe betwixt him and his Parliaments are the true occaſion of them. It was to be wiſh'd both for Him and Us, that either one Party or other had yielded ſooner. I am not well enough acquainted with the Maximes of their Country to decide poſitively which ought to have done it. The King not only thought his Prerogatives were uſurped upon, but ſeem'd to have juſt apprehenſions of engaging in a War, which it would be in the Power of his People to put an end to by ſhutting their Purſes. If they had furniſhed him with the Sum of 600000 Pounds when he demanded it, he might either have engaged himſelf in a War, or been in a poſture of making Peace as he thought convenient; but thoſe Gentle<g ref="char:EOLhyphen"/>men apprehended to put Arms into the Hands of His Majeſty for fear that he ſhould make uſe of 'em to render himſelf abſolute. However ſince they found it neceſſary to do it after<g ref="char:EOLhyphen"/>wards, had it not been better they had done it in time? To ſpeak the Truth, methinks that Great Body though compos'd of ſo many Wiſe Heads, did not ſufficiently foreſee what might happen, or, thoſe Gentlemen did ſecretly aim at Peace, while they openly declared for War, and they hoped the heat and reſolution which they ſhew'd for the latter, would produce the former without ſtriking a blow, and ſuch an one too as they deſired. We muſt however ſay that they ſhewed a great deal of Wiſdom in not con<g ref="char:EOLhyphen"/>tinuing inflexibly bent to the laſt, to hazard rather the Ruine of <hi>Europe,</hi> than to confide an Army in the King. The conſideration they had for the Publick Good has likewiſe appear'd in that they made no difficulty of paying that Army, though the King kept it on foot much longer than they ordered, for the obliging the <hi>French</hi> to reſtore the Towns of the <hi>Spaniſh Netherlands,</hi> before the reſtitution of the <hi>Swedes.</hi> The King likewiſe on his ſide, had ma<g ref="char:EOLhyphen"/>nifeſtly made appear the little ground there was to ſuſpect him of a deſign to render Himſelf Abſolute; ſince having that Army ſo long at his Diſpoſal, he made not the leaſt uſe of it to that purpoſe. Methinks then that His Subjects may be in repoſe on that ſide, and would to God for our Intereſts, that the future Parliaments may be in the ſame diſpo<g ref="char:EOLhyphen"/>ſition as was that we ſpeak of, of yielding rather to His Majeſty, than ſuffer <hi>France</hi> to draw the fatal advantages from their Diſſention, which in all likelihood it will endeavour to do.</p>
+            <closer>
+               <signed>I am, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>H. R.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
